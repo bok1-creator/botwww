@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Обновляем pip
-pip install --upgrade pip
+python -m pip install --upgrade pip setuptools wheel
 
-# Устанавливаем зависимости
-pip install -r requirements_deploy.txt
+# Устанавливаем зависимости без компиляции
+pip install --no-cache-dir aiogram flask flask-cors APScheduler requests aiosqlite gunicorn

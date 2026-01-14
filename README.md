@@ -203,4 +203,4 @@ pip install -r requirements_simple.txt
 
 Telegram: @createboobs_bot  
 Админ-панель: http://localhost:3000  
-Логин: `botadmin` / Пароль: `TgBot2026!`
+

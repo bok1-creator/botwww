@@ -81,11 +81,6 @@ http://localhost:3000
 BOT_TOKEN = "8299699398:AAEFKo5SkoOfOYpK-xJ4t-ZJ3ho9YA7NSxc"
 ```
 
-### Данные для входа
-Настроены в `web/app.py`:
-```python
-}
-```
 
 **⚠️ Обязательно смените пароль после развертывания!**
 

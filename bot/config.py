@@ -1,7 +1,7 @@
 import os
 
 # Конфигурация бота
-BOT_TOKEN = "8299699398:AAEFKo5SkoOfOYpK-xJ4t-ZJ3ho9YA7NSxc"
+BOT_TOKEN = "8222569014:AAEDljGGBuMWdMc8oZ9wXMrz-AEVL_qC_Po"
 
 # Настройки базы данных
 DATABASE_PATH = "data/bot.db"
